@@ -4,6 +4,9 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+function likePost(postId) {
+  // TODO: Complete this function
+} 
 
 
 
